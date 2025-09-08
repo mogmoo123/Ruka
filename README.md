@@ -9,6 +9,7 @@ GUI for Orca in Computational Chemistry. We need easy Orca.
 [Fig 1]
 
 <img width="719" height="537" alt="image" src="https://github.com/user-attachments/assets/8326a8bf-f0d4-4b25-a4e4-1456e9aef00f" />
+
 [Fig 2]
 
 I developed a GUI based on **Fig 1**, and the result is shown in **Fig 2**. This figure is only a preliminary version, but the overall structure of the GUI will remain the same.
